@@ -72,10 +72,18 @@ If you want something different, you can change those settings using Keyboard Ma
 
 ## Why Tweetbot? ##
 
-I've always been a big fan of [Twitterrific](http://iconfactory.com/software/twitterrific) but it doesn't have muting on the desktop *yet* so I'm using [Tweetbot], which is quite nice. You should be able to adapt this process to any 
+I've always been a big fan of [Twitterrific](http://iconfactory.com/software/twitterrific) but it doesn't have muting on the desktop *yet* so I'm using [Tweetbot], which is quite nice. You should be able to adapt this process to any Twitter client.
 
 One thing I really like about Tweetbot is that these filters sync between the Mac and iOS client, so you don't have to maintain multiple filter lists.
 
+## Download my macro ##
+
+If you'd like to [download my Keyboard Maestro macro] you can find it on [Github].
+
+
+[Github]: https://github.com/tjluoma/km-add-tweetbot-mute
+ 
+[download my Keyboard Maestro macro]: https://raw.github.com/tjluoma/km-add-tweetbot-mute/master/KM-Tweetbot-Add-Mute-Keyword.kmmacros
 
 [Keyboard Maestro]: http://www.keyboardmaestro.com/main/
 
