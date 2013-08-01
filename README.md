@@ -69,7 +69,9 @@ If you want something different, you can change those settings using Keyboard Ma
 
 ## Why Tweetbot? ##
 
-I'd much prefer to do this in [Twitterrific](http://iconfactory.com/software/twitterrific) but it doesn't have muting on the desktop *yet* so I'm using Tweetbot. These filters supposedly sync between the Mac and iOS client, but I use Twitterrific on iOS, so I can't say for sure how that works.
+I've always been a big fan of [Twitterrific](http://iconfactory.com/software/twitterrific) but it doesn't have muting on the desktop *yet* so I'm using [Tweetbot], which is quite nice.
+
+One thing I really like about Tweetbot is that these filters sync between the Mac and iOS client, so you don't have to maintain multiple filter lists.
 
 
 [Keyboard Maestro]: http://www.keyboardmaestro.com/main/
